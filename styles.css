@@ -306,6 +306,7 @@ footer{
         font-size: 1.7rem;
         font-weight: 700;
         color: rgb(27, 27, 27);
+        border-bottom: 1px solid var(--text-light);
     }
 
     .nav__contact {
