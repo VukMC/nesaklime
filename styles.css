@@ -319,6 +319,10 @@ footer{
     .navvv {
         border-bottom: 1px solid var(--text-light);
     }
+
+    nav {
+        margin-top: 0;
+    }
 }
 
 @media (width > 540px) {
