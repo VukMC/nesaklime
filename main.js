@@ -27,4 +27,8 @@ ScrollReveal().reveal(".featurette h2", {
 ScrollReveal().reveal(".featurette li", {
     ...scrollRevealOption,
     delay: 400,
+});
+ScrollReveal().reveal(".katalog_2", {
+    ...scrollRevealOption,
+    delay: 400,
 })
