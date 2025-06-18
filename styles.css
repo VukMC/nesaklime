@@ -23,6 +23,12 @@ img {
     width: 100%
 }
 
+.reference {
+    font-size: 40px;
+    font-family: "raleway", sans-serif;
+    font-weight: 600;
+}
+
 a {
     text-decoration: none;
     transition: 0.3s;
