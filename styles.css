@@ -23,12 +23,6 @@ img {
     width: 100%
 }
 
-.reference {
-    font-size: 40px;
-    font-family: "raleway", sans-serif;
-    font-weight: 600;
-}
-
 a {
     text-decoration: none;
     transition: 0.3s;
@@ -240,6 +234,10 @@ footer{
     color: var(--primary-color)
 }
 
+.cenaa {
+    font-weight: 550;
+}
+
 .header__container p {
     margin-bottom: 2rem;
     font-size: 1rem;
@@ -390,6 +388,12 @@ footer{
     font-weight: 600;
 }
 
+.reference {
+    font-size: 40px;
+    font-family: "raleway", sans-serif;
+    font-weight: 600;
+}
+
 .titl {
     font-weight: 20;
 }
@@ -420,4 +424,22 @@ footer{
 
 .partnerr {
     text-decoration: underline;
+}
+
+.card-group {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 10px;
+    justify-content: center;
+}
+
+.svi_proizvodi {
+    font-size: 30px;
+    font-family: "raleway", sans-serif;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
