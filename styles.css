@@ -316,6 +316,10 @@ footer{
     .nav__contact__card {
         margin-top: -10px;
     }
+
+    .navvv {
+        border-bottom: 1px solid var(--text-light);
+    }
 }
 
 @media (width > 540px) {
